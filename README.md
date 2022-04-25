@@ -1,11 +1,14 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Pauline van Aken performance audit.
 
 
 ## ContentAudit
-Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe. 
+Ik heb de website geanalyseerd die ik zelf heb gebouwd voor de klant Pauline van Aken. De performance audit houd ik op 25/04/2022. De url is [https://paulinevanaken.nl/](Pauline van aken website). 
+![/assets/index.png](index of paulinevanaken.nl).
+
+<!-- Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  -->
 
 
 ### First Contentful Paint (FCP)
