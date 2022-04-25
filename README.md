@@ -9,6 +9,8 @@ Ik heb de website geanalyseerd die ik zelf heb gebouwd voor de klant Pauline van
 ![index of paulinevanaken.nl](/assets/index.png)
 <!-- Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  -->
 
+![Metrics](/assets/metrics.png)
+
 
 ### First Contentful Paint (FCP)
 De uitslag van de First Contentful Paint is 0.8s en is daarmee goed genoeg. Eventuele verbeteringen zou zijn "Reduce unused CSS" er zijn een aantal ongebruikte styles van globale stylesheet die weg kunnen. 
