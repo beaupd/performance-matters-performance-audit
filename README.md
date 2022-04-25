@@ -9,6 +9,7 @@ Ik heb de website geanalyseerd die ik zelf heb gebouwd voor de klant Pauline van
 ![index of paulinevanaken.nl](/assets/index.png)
 <!-- Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  -->
 
+![Performance score](/assets/performance.png)
 ![Metrics](/assets/metrics.png)
 
 
