@@ -5,8 +5,8 @@ Pauline van Aken performance audit.
 
 
 ## ContentAudit
-Ik heb de website geanalyseerd die ik zelf heb gebouwd voor de klant Pauline van Aken. De performance audit houd ik op 25/04/2022. De url is [https://paulinevanaken.nl/](Pauline van aken website). 
-![/assets/index.png](index of paulinevanaken.nl).
+Ik heb de website geanalyseerd die ik zelf heb gebouwd voor de klant Pauline van Aken. De performance audit houd ik op 25/04/2022. De url is [PaulineVanAken](https://paulinevanaken.nl/). 
+![index of paulinevanaken.nl](/assets/index.png).
 
 <!-- Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  -->
 
